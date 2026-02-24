@@ -1,0 +1,492 @@
+[
+    {
+        "mandate_id": "TATAPLAY-3456-IY1",
+        "mandate_name": "Tata Play",
+        "bank": "PNB",
+        "amount": 3533.17,
+        "status": "unpaused",
+        "execution_date": "2026-02-03",
+        "execution_frequency": "Monthly",
+        "phone_no": "8765123456"
+    },
+    {
+        "mandate_id": "PAYU-6655-WXF",
+        "mandate_name": "PayU",
+        "bank": "Kotak",
+        "amount": 4550.22,
+        "status": "pause",
+        "execution_date": "2026-02-06",
+        "execution_frequency": "Daily",
+        "phone_no": "9988776655"
+    },
+    {
+        "mandate_id": "REDBUS-6655-1SK",
+        "mandate_name": "RedBus",
+        "bank": "HDFC",
+        "amount": 248.49,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-13",
+        "execution_frequency": "Monthly",
+        "phone_no": "9988776655"
+    },
+    {
+        "mandate_id": "BOOKMYSHOW-2109-SDW",
+        "mandate_name": "BookMyShow",
+        "bank": "PNB",
+        "amount": 4989.53,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-22",
+        "execution_frequency": "Weekly",
+        "phone_no": "8765432109"
+    },
+    {
+        "mandate_id": "RAZORPAY-1098-B57",
+        "mandate_name": "Razorpay",
+        "bank": "Axis",
+        "amount": 3561.2,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-16",
+        "execution_frequency": "Weekly",
+        "phone_no": "7654321098"
+    },
+    {
+        "mandate_id": "DISNEYHOTS-4567-V8F",
+        "mandate_name": "Disney+ Hotstar",
+        "bank": "IDFC First",
+        "amount": 4094.9,
+        "status": "unpaused",
+        "execution_date": "2026-02-23",
+        "execution_frequency": "Weekly",
+        "phone_no": "7654234567"
+    },
+    {
+        "mandate_id": "NETFLIXKID-6789-U2Q",
+        "mandate_name": "Netflix Kids",
+        "bank": "SBI",
+        "amount": 1749.29,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-25",
+        "execution_frequency": "Weekly",
+        "phone_no": "9123456789"
+    },
+    {
+        "mandate_id": "JIO-4567-SM8",
+        "mandate_name": "Jio",
+        "bank": "PNB",
+        "amount": 3994.23,
+        "status": "unpaused",
+        "execution_date": "2026-02-19",
+        "execution_frequency": "Daily",
+        "phone_no": "7654234567"
+    },
+    {
+        "mandate_id": "ZOOM-4567-SCV",
+        "mandate_name": "Zoom",
+        "bank": "Kotak",
+        "amount": 4607.75,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-06",
+        "execution_frequency": "Weekly",
+        "phone_no": "7654234567"
+    },
+    {
+        "mandate_id": "GROWW-4567-10Q",
+        "mandate_name": "Groww",
+        "bank": "SBI",
+        "amount": 1984.34,
+        "status": "pause",
+        "execution_date": "2026-02-07",
+        "execution_frequency": "Daily",
+        "phone_no": "7654234567"
+    },
+    {
+        "mandate_id": "GROWW-6789-T56",
+        "mandate_name": "Groww",
+        "bank": "Axis",
+        "amount": 4323.95,
+        "status": "pause",
+        "execution_date": "2026-02-10",
+        "execution_frequency": "Weekly",
+        "phone_no": "9123456789"
+    },
+    {
+        "mandate_id": "HULU-5544-TSV",
+        "mandate_name": "Hulu",
+        "bank": "HDFC",
+        "amount": 3096.41,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-03",
+        "execution_frequency": "Daily",
+        "phone_no": "8877665544"
+    },
+    {
+        "mandate_id": "JIO-5544-PW0",
+        "mandate_name": "Jio",
+        "bank": "IDFC First",
+        "amount": 1427.14,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-23",
+        "execution_frequency": "Daily",
+        "phone_no": "8877665544"
+    },
+    {
+        "mandate_id": "UNACADEMY-5544-JYY",
+        "mandate_name": "Unacademy",
+        "bank": "Axis",
+        "amount": 2391.62,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-18",
+        "execution_frequency": "Monthly",
+        "phone_no": "8877665544"
+    },
+    {
+        "mandate_id": "GAANA-5544-5TA",
+        "mandate_name": "Gaana",
+        "bank": "HDFC",
+        "amount": 842.67,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-23",
+        "execution_frequency": "Monthly",
+        "phone_no": "8877665544"
+    },
+    {
+        "mandate_id": "MONEYTAP-1098-J7G",
+        "mandate_name": "MoneyTap",
+        "bank": "IDFC First",
+        "amount": 1510.64,
+        "status": "unpaused",
+        "execution_date": "2026-02-12",
+        "execution_frequency": "Weekly",
+        "phone_no": "7654321098"
+    },
+    {
+        "mandate_id": "DROPBOX-6789-L7K",
+        "mandate_name": "Dropbox",
+        "bank": "HDFC",
+        "amount": 3894.74,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-10",
+        "execution_frequency": "Monthly",
+        "phone_no": "9123456789"
+    },
+    {
+        "mandate_id": "PAYTM-4433-BSX",
+        "mandate_name": "Paytm",
+        "bank": "IDFC First",
+        "amount": 4595.96,
+        "status": "pause",
+        "execution_date": "2026-02-13",
+        "execution_frequency": "Monthly",
+        "phone_no": "7766554433"
+    },
+    {
+        "mandate_id": "SMALLCASE-5544-WBO",
+        "mandate_name": "Smallcase",
+        "bank": "HDFC",
+        "amount": 1411.04,
+        "status": "unpaused",
+        "execution_date": "2026-02-11",
+        "execution_frequency": "Monthly",
+        "phone_no": "8877665544"
+    },
+    {
+        "mandate_id": "MXPLAYER-3210-IIQ",
+        "mandate_name": "MX Player",
+        "bank": "SBI",
+        "amount": 2559.69,
+        "status": "pause",
+        "execution_date": "2026-03-01",
+        "execution_frequency": "Weekly",
+        "phone_no": "9876543210"
+    },
+    {
+        "mandate_id": "SMALLCASE-3210-0JZ",
+        "mandate_name": "Smallcase",
+        "bank": "Axis",
+        "amount": 202.07,
+        "status": "pause",
+        "execution_date": "2026-02-04",
+        "execution_frequency": "Weekly",
+        "phone_no": "9876543210"
+    },
+    {
+        "mandate_id": "GROWW-5544-OZR",
+        "mandate_name": "Groww",
+        "bank": "SBI",
+        "amount": 2717.69,
+        "status": "pause",
+        "execution_date": "2026-02-23",
+        "execution_frequency": "Monthly",
+        "phone_no": "8877665544"
+    },
+    {
+        "mandate_id": "NETFLIX-3456-D2F",
+        "mandate_name": "Netflix",
+        "bank": "Yes Bank",
+        "amount": 4426.29,
+        "status": "pause",
+        "execution_date": "2026-02-24",
+        "execution_frequency": "Monthly",
+        "phone_no": "8765123456"
+    },
+    {
+        "mandate_id": "PHONEPESUP-4567-YU6",
+        "mandate_name": "PhonePe Super App",
+        "bank": "PNB",
+        "amount": 3993.45,
+        "status": "pause",
+        "execution_date": "2026-02-15",
+        "execution_frequency": "Monthly",
+        "phone_no": "7654234567"
+    },
+    {
+        "mandate_id": "UBER-1098-K35",
+        "mandate_name": "Uber",
+        "bank": "SBI",
+        "amount": 3234.18,
+        "status": "unpaused",
+        "execution_date": "2026-02-15",
+        "execution_frequency": "Daily",
+        "phone_no": "7654321098"
+    },
+    {
+        "mandate_id": "UBER-2109-G8G",
+        "mandate_name": "Uber",
+        "bank": "Kotak",
+        "amount": 4711.24,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-08",
+        "execution_frequency": "Monthly",
+        "phone_no": "8765432109"
+    },
+    {
+        "mandate_id": "OLAMONEY-4433-RYV",
+        "mandate_name": "Ola Money",
+        "bank": "IDFC First",
+        "amount": 3057.05,
+        "status": "unpaused",
+        "execution_date": "2026-02-12",
+        "execution_frequency": "Monthly",
+        "phone_no": "7766554433"
+    },
+    {
+        "mandate_id": "BAJAJFINSE-6655-YXP",
+        "mandate_name": "Bajaj Finserv",
+        "bank": "IDFC First",
+        "amount": 386.29,
+        "status": "pause",
+        "execution_date": "2026-02-16",
+        "execution_frequency": "Monthly",
+        "phone_no": "9988776655"
+    },
+    {
+        "mandate_id": "HULU-5544-F1Q",
+        "mandate_name": "Hulu",
+        "bank": "ICICI",
+        "amount": 3358.79,
+        "status": "pause",
+        "execution_date": "2026-02-26",
+        "execution_frequency": "Weekly",
+        "phone_no": "8877665544"
+    },
+    {
+        "mandate_id": "ICICIPRUDE-5544-NGO",
+        "mandate_name": "ICICI Prudential",
+        "bank": "Axis",
+        "amount": 1147.68,
+        "status": "pause",
+        "execution_date": "2026-02-10",
+        "execution_frequency": "Monthly",
+        "phone_no": "8877665544"
+    },
+    {
+        "mandate_id": "MXPLAYER-3210-OLW",
+        "mandate_name": "MX Player",
+        "bank": "HDFC",
+        "amount": 1720.77,
+        "status": "pause",
+        "execution_date": "2026-02-19",
+        "execution_frequency": "Daily",
+        "phone_no": "9876543210"
+    },
+    {
+        "mandate_id": "HDFCBANK-2109-FFE",
+        "mandate_name": "HDFC Bank",
+        "bank": "Yes Bank",
+        "amount": 1305.44,
+        "status": "unpaused",
+        "execution_date": "2026-02-23",
+        "execution_frequency": "Daily",
+        "phone_no": "8765432109"
+    },
+    {
+        "mandate_id": "DISNEYHOTS-3210-Y4Q",
+        "mandate_name": "Disney+ Hotstar",
+        "bank": "Axis",
+        "amount": 832.15,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-17",
+        "execution_frequency": "Daily",
+        "phone_no": "9876543210"
+    },
+    {
+        "mandate_id": "REDBUS-4567-4SR",
+        "mandate_name": "RedBus",
+        "bank": "Axis",
+        "amount": 1440.39,
+        "status": "pause",
+        "execution_date": "2026-02-10",
+        "execution_frequency": "Monthly",
+        "phone_no": "7654234567"
+    },
+    {
+        "mandate_id": "AMAZONPAY-4433-8ET",
+        "mandate_name": "Amazon Pay",
+        "bank": "SBI",
+        "amount": 738.06,
+        "status": "unpaused",
+        "execution_date": "2026-02-11",
+        "execution_frequency": "Weekly",
+        "phone_no": "7766554433"
+    },
+    {
+        "mandate_id": "SMALLCASE-3210-9J9",
+        "mandate_name": "Smallcase",
+        "bank": "Yes Bank",
+        "amount": 997.65,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-26",
+        "execution_frequency": "Monthly",
+        "phone_no": "9876543210"
+    },
+    {
+        "mandate_id": "OLAMONEY-6789-D55",
+        "mandate_name": "Ola Money",
+        "bank": "ICICI",
+        "amount": 1943.61,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-14",
+        "execution_frequency": "Monthly",
+        "phone_no": "9123456789"
+    },
+    {
+        "mandate_id": "BOOKMYSHOW-2345-1J9",
+        "mandate_name": "BookMyShow",
+        "bank": "IDFC First",
+        "amount": 2054.12,
+        "status": "pause",
+        "execution_date": "2026-02-06",
+        "execution_frequency": "Monthly",
+        "phone_no": "9876512345"
+    },
+    {
+        "mandate_id": "COURSERA-5544-YKX",
+        "mandate_name": "Coursera",
+        "bank": "IDFC First",
+        "amount": 869.51,
+        "status": "pause",
+        "execution_date": "2026-02-18",
+        "execution_frequency": "Daily",
+        "phone_no": "8877665544"
+    },
+    {
+        "mandate_id": "CRED-4433-E0W",
+        "mandate_name": "Cred",
+        "bank": "HDFC",
+        "amount": 2225.94,
+        "status": "paused",
+        "execution_date": "2026-02-17",
+        "execution_frequency": "Weekly",
+        "phone_no": "7766554433"
+    },
+    {
+        "mandate_id": "JIO-3210-U7H",
+        "mandate_name": "Jio",
+        "bank": "ICICI",
+        "amount": 4247.26,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-05",
+        "execution_frequency": "Monthly",
+        "phone_no": "9876543210"
+    },
+    {
+        "mandate_id": "KOTAKMAHIN-6789-DX3",
+        "mandate_name": "Kotak Mahindra",
+        "bank": "HDFC",
+        "amount": 112.61,
+        "status": "revoke/cancel",
+        "execution_date": "2026-02-14",
+        "execution_frequency": "Daily",
+        "phone_no": "9123456789"
+    },
+    {
+        "mandate_id": "PAYU-6789-O9S",
+        "mandate_name": "PayU",
+        "bank": "SBI",
+        "amount": 3187.86,
+        "status": "pause",
+        "execution_date": "2026-02-28",
+        "execution_frequency": "Weekly",
+        "phone_no": "9123456789"
+    },
+    {
+        "mandate_id": "UNACADEMY-1098-66C",
+        "mandate_name": "Unacademy",
+        "bank": "Axis",
+        "amount": 986.26,
+        "status": "pause",
+        "execution_date": "2026-03-01",
+        "execution_frequency": "Daily",
+        "phone_no": "7654321098"
+    },
+    {
+        "mandate_id": "UBER-2109-G0V",
+        "mandate_name": "Uber",
+        "bank": "Kotak",
+        "amount": 1808.62,
+        "status": "pause",
+        "execution_date": "2026-02-23",
+        "execution_frequency": "Monthly",
+        "phone_no": "8765432109"
+    },
+    {
+        "mandate_id": "ICICIBANK-3456-J5U",
+        "mandate_name": "ICICI Bank",
+        "bank": "IDFC First",
+        "amount": 1986.04,
+        "status": "pause",
+        "execution_date": "2026-02-12",
+        "execution_frequency": "Weekly",
+        "phone_no": "8765123456"
+    },
+    {
+        "mandate_id": "TATAPLAY-2109-TDZ",
+        "mandate_name": "Tata Play",
+        "bank": "Axis",
+        "amount": 1918.29,
+        "status": "pause",
+        "execution_date": "2026-02-08",
+        "execution_frequency": "Weekly",
+        "phone_no": "8765432109"
+    },
+    {
+        "mandate_id": "GAANA-2345-Q8S",
+        "mandate_name": "Gaana",
+        "bank": "ICICI",
+        "amount": 4400.72,
+        "status": "pause",
+        "execution_date": "2026-02-14",
+        "execution_frequency": "Daily",
+        "phone_no": "9876512345"
+    },
+    {
+        "mandate_id": "ZOOM-2345-SJR",
+        "mandate_name": "Zoom",
+        "bank": "Axis",
+        "amount": 4384.09,
+        "status": "pause",
+        "execution_date": "2026-02-22",
+        "execution_frequency": "Weekly",
+        "phone_no": "9876512345"
+    }
+]
